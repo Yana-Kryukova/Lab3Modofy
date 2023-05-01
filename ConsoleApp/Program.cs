@@ -12,6 +12,11 @@ switch (s)
     case "*": OperationMulty(A, B); break;
     case "/": break;
 }
+void OperationMinus(int a, int b)
+{
+    Console.WriteLine(A - B);
+}
+
 
 
 
