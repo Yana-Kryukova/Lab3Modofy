@@ -17,6 +17,10 @@ void OperationMinus(int a, int b)
 {
     Console.WriteLine(A - B);
 }
+void OperationPlus(int a, int b)
+{
+    Console.WriteLine(A + B);
+}
 void OperationMulty(int a, int b)
 {
     Console.WriteLine(A * B);
@@ -24,6 +28,6 @@ void OperationMulty(int a, int b)
 
 void OperationDiv(int a, int b)
 {
-    Console.WriteLine(A * B);
+    Console.WriteLine(A / B);
 }
 
