@@ -12,3 +12,5 @@ switch (s)
     case "*": OperationMulty(A, B); break;
     case "/": break;
 }
+
+
