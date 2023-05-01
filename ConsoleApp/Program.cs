@@ -12,8 +12,5 @@ switch (s)
     case "*": OperationMulty(A, B); break;
     case "/": break;
 }
-void OperationMulty(int a, int b)
-{
-    Console.WriteLine(A * B);
-}
+
 
